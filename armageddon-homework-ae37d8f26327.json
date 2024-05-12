@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "armageddon-homework",
+  "private_key_id": "ae37d8f26327c02af2d9fc43177ee225485c4615",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCumaVxsC8xTjyn\nbNV1Bl5ZynpSXJZhwLFeKrbE8jDCj0kr99jgIpHpAi3vr6SkZWP5bE4ua7ZFG5DR\nYuwphOENdVYJ1JF0PaGbcrf5VS7RK8jdf1u4UmU8FczEAUTf2Dc5MnPGmGNeccxe\nUHW/sOcQ1MX7pM3Qol71XLM8oUBXQP6/ISk8LpF0FLBtgxynLosQBuYYWu1GbKOn\ntHoH0eH04q8pCtwhi7xMjcGx2QY0TaD3atS+OtTeItdWQRCqWuDGE+xBD5Zhj4HD\nfhgnyyMvftQhEmJhjSR0zwdYLdH4vO01j9aSWcKTp+YCX7FPdvy8wOFlkYFCcG4i\nU7J+Sr7LAgMBAAECggEAECsTOoFoWrEA2zeFVsZls1FAMuNMW7YBLBQELnMHrTn2\nj9dDjTyLoB+ptac2tbCGlFYsBo7GkgS49uLUYA3kMfUFKCONP/iQarmHVtPwDMJO\nDKYwDf63TYaZRSdMQ6GdOjM1VxUifTWdiWL7BxVweEsJIGyaUIZ7Xk5HchxekxW+\nq1zGRzmkCYfgc0V2SL6eiml9n3vifKQSxBhgQ/DTXeHVbCj536GRgtFlkrpXS6yt\n8F9yohek+ZTO2eYAYUppWwGKXlC46gStbgwmELXFXtXPbtrZ78qOla9zuufdCFET\na7i2jMKEMxpKmF5RJDMqE6kfj/7nw0OK02DrWhDO9QKBgQDzXdZOH387wKoKybq+\nVgnFkOJv2/VU3Ph+3jmnFtAN61zG+KsX6Q0cD7VL4VOpV2tJ3g1MyOWwZhoemeN6\nw8oJ12eQH5E9mQJOR8MKv4ofm5hOP1iUVaCPJmsZan/Y4ehcw8VkJXoiLkBA+BjP\nveiMqjPLGp15CFrgk1IklZjyPwKBgQC3qfRcflkvwdxbwes+gm5jsAfo4fTtLyBh\nNraIUiSjHEsAAFpzNhQfYZj+bNNfJ3NBFaMP4it/i8N+3c8CnUSb9RF/kDn3SCvs\nQVxKh2muiGmAzH0l2dizBVBxzgDg9chZbsTjdH+wzqTmVRBEpBxmLlO5JCkZ5r8R\nSqcVb4n4dQKBgGrXs5Iwuccd2olJ7zZIx5l49jBtvNM4/8+S+HSmy0iRH/YqjdK9\negfrzYg2sGgT/QI8/lHLkStUZ/svTHNFKZoQe2MGuNj2J9D+KF67oIQn50HTBax5\nuzedgj9yRhaNd1niiPJikbAX5hWf1iS+Fy5KOtrcIG5WgK8/fjyZgMA5AoGAJuAi\niTF1T1aJfiKd2K1jEFbCVdj+LvY6tFkQaep5Ns1WUrnAa4KW382YxMHkO8/t5Wjf\nCw2kh2reBoyMtND1JM3K1mWA34a3RVrQXjYreHYHXuvp0Yk7BSmqzWv9Y6Cit8tq\ngXq3TIVxAhAfUWgrWrWToyy0RndBGjfjBfaGDcECgYEAtbGPDsfNQmZmHWw9RuMM\nuSeT2PaDNZ1PyMT9Kvs+mn/r8ifvNv9VXB9or7KFwqizsKIxnG/67cSoMqryqmSK\nCD78UxE1flcxQvIukCZ0F99YuKjGuG7OiG9f/KU1bUGFHPPNUqRSWbwvmCo1c1uA\n9ZDD6sb1Ds0pShiahKGtJXo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "freedom-service-account@armageddon-homework.iam.gserviceaccount.com",
+  "client_id": "112296549938872940279",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/freedom-service-account%40armageddon-homework.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
